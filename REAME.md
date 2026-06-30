@@ -2,7 +2,7 @@
 This extension is a section registration / collision checker written by Claude code.
 
 # How to install
-1. Download userscript manager Chrome / Firefox extension (ex: TamperMonkey).
+1. Download userscript manager Chrome / Firefox extension (ex: [TamperMonkey](https://www.tampermonkey.net/)).
 2. Click the [install link here](https://github.com/TanawatJukmongkol/KMITL-Conflict-Check/raw/refs/heads/main/conflict-check.user.js)
 
 # How to use
